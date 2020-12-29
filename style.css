@@ -1,0 +1,50 @@
+.jumbotron {
+  background: rgb(12, 64, 233);
+  color: rgb(247, 243, 41);
+  padding-top: 18px;
+  padding-bottom: 7px;
+  padding-left: 50px;
+}
+
+body {
+  background-image: url(weather_panel.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.display-2 {
+  font-family: "Staatliches";
+  text-align: left;
+  text-shadow: black;
+}
+
+.buttons-view {
+  position: static;
+  left: 20px;
+  top: 140px;
+  margin-top: 14px;
+  width: 120px;
+  border-style: solid;
+  border-width: 2px;
+  color: white;
+
+}
+
+
+.cityWeather {
+  flex-flow: column;
+  float: right;
+  right: 150px;
+  padding: 5px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: white;
+}
+
+#run-search,
+#clear-search {
+  margin-top: 15px;
+}
+
+
+}
