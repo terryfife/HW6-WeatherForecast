@@ -8,7 +8,7 @@ The objective of this exercise was to build a lightweight weather app using an A
 ***
 No installation necessary
 
-#Screenshot
+# Screenshot
 ***
 ![Screenshot](Weather_screenshot.png)
 
